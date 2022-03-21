@@ -2,7 +2,7 @@
 - 👀 I’m interested in making websites to simplify things
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on making interesting Java projects
-- 📫 How to reach me tg @Decem33
+- 📫 How to reach me 
 
 <!---
 Tkarnu/Tkarnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
